@@ -1,0 +1,16 @@
+# 🗂️ Dataset Information
+
+## 📦 Dataset Used
+[Kaggle Waste Classification Dataset (TrashNet)](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+
+## 📋 Description
+This dataset contains labeled images of different waste categories:
+- 🧃 Plastic  
+- 📰 Paper  
+- 🪙 Metal  
+- 🍃 Organic  
+- 🍶 Glass  
+- 📦 Cardboard  
+
+## 📁 Structure
+The dataset is organized as:
