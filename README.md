@@ -26,7 +26,6 @@ This project leverages CNN-based deep learning to classify waste images accurate
 
 - **Python**, **TensorFlow/Keras**, **Matplotlib**, **Pillow**
 - **Google Colab** for training
-- **Streamlit** for deployment
 - **Kaggle Dataset:** [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data)
 
 ---
