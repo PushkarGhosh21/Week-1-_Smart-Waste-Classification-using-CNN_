@@ -14,13 +14,16 @@ This project leverages CNN-based deep learning to classify waste images accurate
 
 ---
 
-💡 Solution
+ ⚙️ Model Summary (Week 1)
+- Base CNN with 2 convolutional layers
+- Trained for 5 epochs
+- Accuracy (Week 1 baseline): ~85%
 
-- Implemented **MobileNetV2 CNN** architecture via **Transfer Learning**.  
-- Achieved **~92% accuracy** on Kaggle’s Waste Classification dataset.  
-- Deployable prototype using **Streamlit / Colab interactive UI**.  
-- Supports smart cities and sustainable AI initiatives.
-
+---
+🌱 (Week 2)
+- Implement Transfer Learning using MobileNetV2
+- Improve accuracy and validation performance
+- Add sustainability impact visualization
 ---
 
 ⚙️ Tools & Technologies
