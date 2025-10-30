@@ -20,11 +20,7 @@ This project leverages CNN-based deep learning to classify waste images accurate
 - Accuracy (Week 1 baseline): ~85%
 
 ---
-🌱 (Week 2)
-- Implement Transfer Learning using MobileNetV2
-- Improve accuracy and validation performance
-- Add sustainability impact visualization
----
+
 
 ⚙️ Tools & Technologies
 
