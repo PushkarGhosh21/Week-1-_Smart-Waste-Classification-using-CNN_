@@ -20,7 +20,40 @@ This project leverages CNN-based deep learning to classify waste images accurate
 - Accuracy (Week 1 baseline): ~85%
 
 ---
+Week 2 – Smart Waste Classification using CNN
+🌱 AI for Sustainability Project | Theme: Sustainable Waste Management using Deep Learning
+🎯 Objectives for Week 2
 
+Understand and implement Convolutional Neural Networks (CNNs) for image classification.
+
+Learn about Transfer Learning and how to apply pretrained models like MobileNetV2.
+
+Prepare dataset (waste images) for training and testing.
+
+Train, evaluate, and visualize CNN model performance using Google Colab.
+
+Achieve high accuracy in classifying images as Organic or Recyclable.
+
+🧩 Tasks Completed
+Task	Description	Tools Used
+✅ Dataset Preparation	Organized Kaggle Waste Classification dataset into TRAIN and TEST folders	Google Drive, Colab
+✅ Model Selection	Used MobileNetV2, a CNN architecture for transfer learning	TensorFlow / Keras
+✅ Model Training	Trained model for 10 epochs on the dataset with 90%+ accuracy	Google Colab (GPU)
+✅ Visualization	Plotted training and validation accuracy/loss graphs	Matplotlib
+✅ Model Saving	Exported trained model as waste_classifier.h5 and stored in Drive	Keras, Google Drive
+🧠 Concepts Learned
+
+Convolutional Neural Networks (CNNs):
+Learned how CNN layers automatically extract spatial features like edges, textures, and patterns from images.
+
+Transfer Learning:
+Understood how to reuse pretrained models (MobileNetV2) to improve performance and reduce training time.
+
+Data Augmentation & Preprocessing:
+Applied normalization and image resizing using ImageDataGenerator.
+
+Model Evaluation:
+Learned how to interpret accuracy, loss, and confusion matrices for assessing performance.
 
 ⚙️ Tools & Technologies
 
